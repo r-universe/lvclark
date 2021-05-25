@@ -1,0 +1,10 @@
+[
+  {
+    "package": "polysat",
+    "oncran": true
+  },
+  {
+    "package": "polyRAD",
+    "oncran": true
+  }
+]
