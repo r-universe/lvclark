@@ -6,5 +6,8 @@
   {
     "package": "polyRAD",
     "oncran": true
+  },
+  {
+    "package": "plotly.microbiome"
   }
 ]
