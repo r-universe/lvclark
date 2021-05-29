@@ -8,6 +8,9 @@
     "oncran": true
   },
   {
+    "package": "polyRADtutorials"
+  },
+  {
     "package": "plotly.microbiome"
   }
 ]

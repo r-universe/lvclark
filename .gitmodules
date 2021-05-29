@@ -13,6 +13,11 @@
 	url = https://github.com/lvclark/polyRAD
 	shallow = true
 	registered = true
+[submodule "polyRADtutorials"]
+	path = polyRADtutorials
+	url = https://github.com/lvclark/polyRADtutorials
+	shallow = true
+	registered = true
 [submodule "plotly.microbiome"]
 	path = plotly.microbiome
 	url = https://github.com/HPCBio/plotly_microbiome
