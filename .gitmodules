@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/lvclark/universe
-	shallow = true
 	branch = HEAD
 [submodule "polysat"]
 	path = polysat
 	url = https://github.com/lvclark/polysat
-	shallow = true
-	registered = true
 [submodule "polyRAD"]
 	path = polyRAD
 	url = https://github.com/lvclark/polyRAD
-	shallow = true
-	registered = true
 [submodule "polyRADtutorials"]
 	path = polyRADtutorials
 	url = https://github.com/lvclark/polyRADtutorials
-	shallow = true
-	registered = true
 [submodule "plotly.microbiome"]
 	path = plotly.microbiome
 	url = https://github.com/HPCBio/plotly_microbiome
-	shallow = true
-	registered = true
