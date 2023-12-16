@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/lvclark/universe
 	branch = HEAD
-[submodule "polysat"]
-	path = polysat
-	url = https://github.com/lvclark/polysat
+[submodule "plotly.microbiome"]
+	path = plotly.microbiome
+	url = https://github.com/HPCBio/plotly_microbiome
 [submodule "polyRAD"]
 	path = polyRAD
 	url = https://github.com/lvclark/polyRAD
 [submodule "polyRADtutorials"]
 	path = polyRADtutorials
 	url = https://github.com/lvclark/polyRADtutorials
-[submodule "plotly.microbiome"]
-	path = plotly.microbiome
-	url = https://github.com/HPCBio/plotly_microbiome
+[submodule "polysat"]
+	path = polysat
+	url = https://github.com/lvclark/polysat
