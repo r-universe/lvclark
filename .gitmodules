@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/lvclark/universe
+	url = https://github.com/lvclark/lvclark.r-universe.dev
 	branch = HEAD
 [submodule "plotly.microbiome"]
 	path = plotly.microbiome
